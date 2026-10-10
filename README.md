@@ -11,9 +11,10 @@ Founder and Lead Developer at [Black Axios](https://www.blackaxios.com), a desig
 ## Tech stack
 Next.js · React · React Native · Prisma · PostgreSQL
 
-*Client projects are private repositories. Happy to walk through them on a call.*
+*Client projects are private repositories. Happy to walk through them on a call on Tel:0758222256*
 
 ## Get in touch
 - Website: [blackaxios.com](https://www.blackaxios.com)
 - LinkedIn: [linkedin.com/in/felix-thard](https://www.linkedin.com/in/felix-thard)
 - Email: admin@blackaxios.com
+- Tel: 0758222256
