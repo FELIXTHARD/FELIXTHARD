@@ -14,3 +14,4 @@ Next.js · React · React Native · Prisma · PostgreSQL
 ## Get in touch
 - Website: [blackaxios.com](https://www.blackaxios.com)
 - LinkedIn: [linkedin.com/in/felix-thard](https://www.linkedin.com/in/felix-thard)
+- Email: admin@blackaxios.com
