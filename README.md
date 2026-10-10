@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Felix Thard
 
-<!--
-**FELIXTHARD/FELIXTHARD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder and Lead Developer at [Black Axios](https://www.blackaxios.com), a design and technology studio in Kampala, Uganda. I'm also studying Computer Science at Kampala International University.
 
-Here are some ideas to get you started:
+## What I build
+- Web apps and dashboards with Next.js and React
+- Mobile apps with React Native
+- Fintech and payment integrations for East African markets
+- Backends with Prisma and PostgreSQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech stack
+Next.js · React · React Native · Prisma · PostgreSQL
+
+## Get in touch
+- Website: [blackaxios.com](https://www.blackaxios.com)
+- LinkedIn: [linkedin.com/in/felix-thard](https://www.linkedin.com/in/felix-thard)
