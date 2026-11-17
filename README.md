@@ -1,6 +1,6 @@
 # Hi, I'm Felix Thard
 
-Founder and Lead Developer at [Black Axios](https://www.blackaxios.com), a design and technology studio in Kampala, Uganda. I'm also studying Computer Science at Kampala International University.
+Founder and Lead Developer at [Centreen](https://www.centreen.com), a design and technology studio in Kampala, Uganda. I'm also studying Computer Science at Kampala International University.
 
 ## What I build
 - Web apps and dashboards with Next.js and React
