@@ -14,7 +14,7 @@ Next.js · React · React Native · Prisma · PostgreSQL
 *Client projects are private repositories. Happy to walk through them on a call on Tel:0758222256*
 
 ## Get in touch
-- Website: [blackaxios.com](https://www.centreen.com)
+- Website: [centreen.com](https://www.centreen.com)
 - LinkedIn: [linkedin.com/in/felix-thard](https://www.linkedin.com/in/felix-thard)
 - Email: admin@centreen.com
 - Tel: 0758222256
